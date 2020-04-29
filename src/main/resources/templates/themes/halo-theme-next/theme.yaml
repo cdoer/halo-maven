@@ -1,0 +1,11 @@
+id: iissnan_next
+name: NexT
+author:
+  name: iissnan
+  website: https://iissnan.com
+description:
+logo:
+website: https://github.com/halo-dev/halo-theme-next
+repo: https://github.com/halo-dev/halo-theme-next
+version: 1.6.1
+require: 1.3.0
