@@ -34,7 +34,7 @@
         <h2Version>1.4.196</h2Version>
         <levelDbVersion>0.12</levelDbVersion>
         <jsonVersion>20190722</jsonVersion>
-        <fastJsonVersion>1.2.67</fastJsonVersion>
+        <fastJsonVersion>1.2.83</fastJsonVersion>
         <annotationsVersion>3.0.1u2</annotationsVersion>
         <zxingVersion>3.4.0</zxingVersion>
         <huaweiObsVersion>3.19.7</huaweiObsVersion>
